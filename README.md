@@ -26,15 +26,14 @@ I am passionate about **technology, innovation, and automation**, with a strong 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44"/>
-  <!-- Requested additions -->
+  <!-- Extras -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="44" height="44"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
-  <!-- UX/UI & Figma as images provided -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="44" height="44"/>
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ux.svg" alt="UX" width="44" height="44"/>
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ui.svg" alt="UI" width="44" height="44"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="44" height="44"/>
+  <!-- UX/UI badges so they always render on GitHub -->
+  <img src="https://img.shields.io/badge/UX-Design-6f2dbd?style=for-the-badge&labelColor=3c096c" alt="UX" height="28"/>
+</p>  
 
 ---
 
@@ -42,7 +41,7 @@ I am passionate about **technology, innovation, and automation**, with a strong 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jaquilunu&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaquilunu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquilunu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquilunu&layout=compact&theme=tokyonight&hide_border=true&hide=G-code&langs_count=8&custom_title=Most%20Used%20Languages" />
 </p>
 
 ---
