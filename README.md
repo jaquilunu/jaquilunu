@@ -4,10 +4,10 @@
 <tr>
 <td width="60%" valign="middle">
 
-<h3>Ciência da Computação | Desenvolvimento e Inovação | Automação | PMO | Robótica</h3>
+<h3>Ciência da Computação | Desenvolvimento e Inovação | Automação | Robótica</h3>
 
 <p>
-Sou estudante de <strong>Ciência da Computação</strong>, com foco em tecnologia, inovação, automação e gerenciamento de projetos.
+Sou estudante de <strong>Ciência da Computação</strong>, com foco em inovação, automação e gerenciamento de projetos.
 </p>
 
 <p>
@@ -15,7 +15,7 @@ Atualmente atuo em <strong>Desenvolvimento e Inovação na Fundação José Silv
 </p>
 
 <p>
-Meu trabalho combina <strong>desenvolvimento de software, automação, metodologias ágeis, análise de dados e gerenciamento de projetos</strong>, buscando transformar processos e ideias em soluções tecnológicas práticas.
+Meu trabalho combina <strong>desenvolvimento de software, automação, metodologias ágeis, análise de dados e gerenciamento de projetos</strong>, buscando transformar ideias em soluções práticas.
 </p>
 
 <p>
@@ -40,26 +40,6 @@ Atualmente, minha principal metodologia de trabalho é o <strong>Scrum</strong>,
   <img src="./fineline.gif" width="100%" alt="divider"/>
 </p>
 
-## 🚀 Atualmente
-
-- Desenvolvimento e Inovação
-- Automação de processos
-- Desenvolvimento de software
-- Inteligência Artificial
-- Robótica
-- IoT e sistemas embarcados
-- Análise de dados
-- UX/UI
-- Gerenciamento de projetos
-- Scrum & Agile
-
-<p align="center">
-  <img src="./fogomexendo.gif" width="110" alt="Technology"/>
-</p>
-
-<p align="center">
-  <img src="./fineline.gif" width="100%" alt="divider"/>
-</p>
 
 ## 🛠️ Tecnologias
 
@@ -113,10 +93,6 @@ Meu trabalho é voltado para a construção e melhoria de soluções tecnológic
 </p>
 
 <p align="center">
-  <img src="./estatisticas3d.gif" width="380" alt="GitHub statistics"/>
-</p>
-
-<p align="center">
   <img src="./fineline.gif" width="100%" alt="divider"/>
 </p>
 
@@ -128,7 +104,7 @@ Tenho interesse em projetos que conectem:
   <strong>Software + Automação + Hardware + Inteligência Artificial + Inovação</strong>
 </p>
 
-Busco desenvolver soluções tecnológicas que sejam eficientes, escaláveis e capazes de gerar impacto no mundo real.
+Busco desenvolver soluções tecnológicas que sejam eficientes, escaláveis e capazes de impactar o mundo.
 
 <p align="center">
   <img src="./gatinhocorrendo.gif" width="120" alt="Moving forward"/>
