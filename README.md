@@ -1,12 +1,42 @@
-# Olá 👋, eu sou **Jaqueline**
+<h1 align="center">Olá 👋, eu sou Jaqueline</h1>
 
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="60%" valign="middle">
 
-### Ciência da Computação | Desenvolvimento e Inovação | Automação | PMO | Robótica
+<h3>Ciência da Computação | Desenvolvimento e Inovação | Automação | PMO | Robótica</h3>
 
-Sou estudante de **Ciência da Computação**, com foco em **tecnologia, inovação, automação e gerenciamento de projetos**.
+<p>
+Sou estudante de <strong>Ciência da Computação</strong>, com foco em tecnologia, inovação, automação e gerenciamento de projetos.
+</p>
+
+<p>
+Atualmente atuo em <strong>Desenvolvimento e Inovação na Fundação José Silveira</strong>, contribuindo para soluções tecnológicas, automação de processos, desenvolvimento de software e projetos de inovação.
+</p>
+
+<p>
+Meu trabalho combina <strong>desenvolvimento de software, automação, metodologias ágeis, análise de dados e gerenciamento de projetos</strong>, buscando transformar processos e ideias em soluções tecnológicas práticas.
+</p>
+
+<p>
+Atualmente, minha principal metodologia de trabalho é o <strong>Scrum</strong>, utilizando práticas ágeis para organizar projetos, priorizar tarefas, colaborar com equipes e entregar melhorias continuamente.
+</p>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="./halloween.gif" width="100%" alt="Jaqueline programando"/>
+
+<br><br>
+
+<strong>Transformo ideias em realidade</strong>
+
+</td>
+</tr>
+</table>
+
+---
 
 Atualmente atuo em **Desenvolvimento e Inovação na Fundação José Silveira**, trabalhando com soluções tecnológicas, automação de processos, desenvolvimento de software e projetos de inovação.
 
